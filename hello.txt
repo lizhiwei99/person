@@ -12,8 +12,5 @@ hello git my  李志炜
 hello git my  李志炜
 hello git my  李志炜
 hello git my  李志炜
-hello git my  李志炜
 hello git my  李志炜 这里是主分支嗷
-hello git my  李志炜
-hello git my  李志炜
-hello git my  李志炜
+hello git my  李志炜 这里是热修分支嗷
